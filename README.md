@@ -1,1 +1,1 @@
-# lab-12-learning
+Day 12 Lab 12 focuses on creating AI-assisted presentations for improving passenger experience at airports. It explores Gamma, clear prompting, professional slide design, accuracy, privacy, visual checks, and risk-based audits. The lab highlights verified information, human review, approval, and responsible passenger communication online.
